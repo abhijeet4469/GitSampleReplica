@@ -1,0 +1,3 @@
+[submodule "Verysdk"]
+	path = Verysdk
+	url = https://github.com/abhijeet4469/androidgit2.git
